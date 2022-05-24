@@ -1,0 +1,45 @@
+C:\Users\scall\Source\Repos\ProPDFReader\bin\Release\ProPDF Reader.exe.config
+C:\Users\scall\Source\Repos\ProPDFReader\bin\Release\ProPDF Reader.exe
+C:\Users\scall\Source\Repos\ProPDFReader\bin\Release\ProPDF Reader.pdb
+C:\Users\scall\Source\Repos\ProPDFReader\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\scall\Source\Repos\ProPDFReader\bin\Release\jose-jwt.dll
+C:\Users\scall\Source\Repos\ProPDFReader\bin\Release\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\scall\Source\Repos\ProPDFReader\bin\Release\Microsoft.Extensions.Primitives.dll
+C:\Users\scall\Source\Repos\ProPDFReader\bin\Release\Microsoft.Net.Http.Headers.dll
+C:\Users\scall\Source\Repos\ProPDFReader\bin\Release\Newtonsoft.Json.dll
+C:\Users\scall\Source\Repos\ProPDFReader\bin\Release\Polly.dll
+C:\Users\scall\Source\Repos\ProPDFReader\bin\Release\RestSharp.dll
+C:\Users\scall\Source\Repos\ProPDFReader\bin\Release\System.Buffers.dll
+C:\Users\scall\Source\Repos\ProPDFReader\bin\Release\System.ComponentModel.Annotations.dll
+C:\Users\scall\Source\Repos\ProPDFReader\bin\Release\System.Memory.dll
+C:\Users\scall\Source\Repos\ProPDFReader\bin\Release\System.Numerics.Vectors.dll
+C:\Users\scall\Source\Repos\ProPDFReader\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\scall\Source\Repos\ProPDFReader\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\scall\Source\Repos\ProPDFReader\bin\Release\UriTemplate.Core.dll
+C:\Users\scall\Source\Repos\ProPDFReader\bin\Release\BouncyCastle.Crypto.xml
+C:\Users\scall\Source\Repos\ProPDFReader\bin\Release\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\scall\Source\Repos\ProPDFReader\bin\Release\Microsoft.Extensions.Primitives.xml
+C:\Users\scall\Source\Repos\ProPDFReader\bin\Release\Microsoft.Net.Http.Headers.xml
+C:\Users\scall\Source\Repos\ProPDFReader\bin\Release\Newtonsoft.Json.pdb
+C:\Users\scall\Source\Repos\ProPDFReader\bin\Release\Newtonsoft.Json.xml
+C:\Users\scall\Source\Repos\ProPDFReader\bin\Release\Polly.xml
+C:\Users\scall\Source\Repos\ProPDFReader\bin\Release\RestSharp.xml
+C:\Users\scall\Source\Repos\ProPDFReader\bin\Release\System.Buffers.xml
+C:\Users\scall\Source\Repos\ProPDFReader\bin\Release\System.Memory.xml
+C:\Users\scall\Source\Repos\ProPDFReader\bin\Release\System.Numerics.Vectors.xml
+C:\Users\scall\Source\Repos\ProPDFReader\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\scall\Source\Repos\ProPDFReader\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\scall\Source\Repos\ProPDFReader\bin\Release\Interop.AcroPDFLib.dll
+C:\Users\scall\Source\Repos\ProPDFReader\bin\Release\AxInterop.AcroPDFLib.dll
+C:\Users\scall\Source\Repos\ProPDFReader\obj\Release\ProPDFReader.csproj.AssemblyReference.cache
+C:\Users\scall\Source\Repos\ProPDFReader\obj\Release\ProPDFReader.csproj.SuggestedBindingRedirects.cache
+C:\Users\scall\Source\Repos\ProPDFReader\obj\Release\Interop.AcroPDFLib.dll
+C:\Users\scall\Source\Repos\ProPDFReader\obj\Release\AxInterop.AcroPDFLib.dll
+C:\Users\scall\Source\Repos\ProPDFReader\obj\Release\ProPDFReader.csproj.ResolveComReference.cache
+C:\Users\scall\Source\Repos\ProPDFReader\obj\Release\ProPDFReader.ProPDFReader.resources
+C:\Users\scall\Source\Repos\ProPDFReader\obj\Release\ProPDFReader.Properties.Resources.resources
+C:\Users\scall\Source\Repos\ProPDFReader\obj\Release\ProPDFReader.csproj.GenerateResource.cache
+C:\Users\scall\Source\Repos\ProPDFReader\obj\Release\ProPDFReader.csproj.CoreCompileInputs.cache
+C:\Users\scall\Source\Repos\ProPDFReader\obj\Release\ProPDFReader.csproj.CopyComplete
+C:\Users\scall\Source\Repos\ProPDFReader\obj\Release\ProPDF Reader.exe
+C:\Users\scall\Source\Repos\ProPDFReader\obj\Release\ProPDF Reader.pdb
